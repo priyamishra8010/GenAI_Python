@@ -1,0 +1,4 @@
+#Groq moodels
+python-dotenv
+langchain-groq
+streamlit
