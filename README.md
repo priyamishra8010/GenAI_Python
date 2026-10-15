@@ -1,4 +1,4 @@
-                                                                            ** AI Text Summarizer**
+                                                               ** AI Text Summarizer**
 **Project Overview**
 An AI-powered text summarization application built using Python, Streamlit, LangChain, and Groq LLMs.
 
